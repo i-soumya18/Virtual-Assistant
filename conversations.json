@@ -418,5 +418,157 @@
     {
         "User": "cse",
         "Luna": "**Assistant**\n\nI can help you with that. Here is a response to the query \"cse\":\n\n**Response**\n\nCSE (Customer Success Engineering) is a specialized role within the software industry that focuses on ensuring the success of customers using a particular software product or service. CSEs work closely with customers to understand their business needs, provide technical support and guidance, and help them achieve their desired outcomes with the software.\n\nCSEs are typically highly skilled in both technical and customer service aspects. They have a deep understanding of the software product or service, as well as the ability to communicate effectively with customers from all levels of technical proficiency. CSEs also have a strong understanding of business principles and best practices, which enables them to provide strategic advice to customers on how to use the software to achieve their business goals.\n\nThe role of the CSE is becoming increasingly important as software products and services become more complex and mission-critical for businesses. By working closely with customers, CSEs can help them to get the most value from their software investment and achieve their desired business outcomes.\n\n**Additional Information**\n\nHere are some additional details about the role of the CSE:\n\n* CSEs typically work with customers of all sizes, from small businesses to large enterprises.\n* CSEs may be responsible for a variety of tasks, including:\n    * Providing technical support and guidance\n    * Conducting training and workshops\n    * Consulting on best practices\n    * Developing and delivering customer success programs\n* CSEs may be based in a variety of locations, including:\n    * The customer's site\n    * The software vendor's headquarters\n    * A remote location\n\n**Conclusion**\n\nCSEs play a vital role in helping customers to achieve success with their software investments. By working closely with customers, CSEs can provide the technical support, guidance, and advice that customers need to get the most value from their software and achieve their desired business outcomes."
+    },
+    {
+        "User": "what is my cgpa",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "what is os",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "did i have any backlog",
+        "Luna": "This document does not mention any backlogs."
+    },
+    {
+        "User": "my pancard number",
+        "Luna": "QEYPS4170F"
+    },
+    {
+        "User": "what is my present address",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "what is my address",
+        "Luna": "Present Address\nAT: Janla, PO: Mahur a, Dist: Khorda, State: Odisha,\nCountry: India, PIN: 752054\n\nPermanent Address\nAT: Krushnnagar , PO: Laxminagar , Dist: Jajpur ,\nState: Odisha, Country: India, PIN: 755015"
+    },
+    {
+        "User": "what else you know about me",
+        "Luna": "The provided text does not contain any additional information about you beyond what is already listed in the CV."
+    },
+    {
+        "User": "what are the short questions",
+        "Luna": "1) List out the key building blocks of loT.\n2) Can loT network be breached? If yes, why.\n3) Discuss loT Landscape.\n4) Build the physical design of loT.\n5) Define LoRA WAN.\n6) Determine the basic operations in loT.\n7) List out various protocol used in Application layer.\n8) Define Cloud computing.\n9) Tabulate various protocols used in loT.\n10) Define loT.\n11) List the security threats in loT.\n12) Recall the advantages & disadvantages of loT.\n13) List out the interfaces used in loT."
+    },
+    {
+        "User": "what is cloud computing",
+        "Luna": "Cloud computing is a type of computing that relies on sharing computing resources rather than having local servers or personal devices to handle applications."
+    },
+    {
+        "User": "define iot",
+        "Luna": "IOT stands for Internet of Things. It refers to the network of physical devices, vehicles, home appliances, and other items that are embedded with sensors, software, and other technologies that allow them to connect and exchange data over the internet."
+    },
+    {
+        "User": "List out the key building blocks of loT.",
+        "Luna": "1) Sensors and Actuators\n2) Communication Network\n3) Data Processing\n4) Application Software\n5) User Interface"
+    },
+    {
+        "User": "Can loT network be breached? If yes, why.",
+        "Luna": "Yes, IoT networks can be breached because they rely on wireless communication, which is inherently less secure than wired networks. This makes them vulnerable to a variety of attacks, including:\n\n* **Interception:** Attackers can intercept and eavesdrop on IoT traffic, which could allow them to steal sensitive data or control devices.\n* **Spoofing:** Attackers can spoof IoT devices and send fake data, which could disrupt operations or cause damage.\n* **Denial of service:** Attackers can launch denial of service attacks against IoT devices, which could overwhelm them and make them unavailable.\n* **Malware:** Attackers can infect IoT devices with malware, which could give them remote control of the devices or allow them to steal data."
+    },
+    {
+        "User": "what are the long questions",
+        "Luna": "**Q1. Answer the following questions:**\n\n1) List out the key building blocks of IoT.\n2) Can IoT network be breached? If yes, why.\n3) Discuss IoT Landscape.\n4) Build the physical design of IoT.\n5) Define LoRA WAN.\n6) Determine the basic operations in IoT.\n7) List out various protocol used in Application layer.\n8) Define Cloud computing.\n9) Tabulate various protocols used in IoT.\n10) Define IoT.\n11) List the security threats in IoT.\n12) Recall the advantages & disadvantages of IoT.\n13) List out the interfaces used in IoT.\n\n**Q2. (Answer any two)**\n\n1) Discuss about IoT communication protocols.\n2) Define IoT. Summarize the various applications of IoT\n3) What is the need of Network? And Explain in detail the LAN and WAN.\n\n**Q3. (Answer any two)**\n\n1) Use of Embedded systems in IoT.\n2) Define communication protocols with example.\n3) Demonstrate the I0T Components with neat diagram\n\n**Q4. (Answer any two)**\n\n1) Define cloud computing? And explain the various services provided by the cloud\n2) How to select Interface in case of Analog and Digital.\n3) Define Analog and Digit l Interfaces with example.\n\n**Q5. (Answer the followings)**\n\n1) Define embedded product & explain the product development types\n2) Explain the Embedded Product Life Cycle.\n\n**Q6. (Answer the followings)**\n\n1) What is cloud computing and why is it helpful?\n2) Discuss the characteristics of network modules and list out the examples of each module."
+    },
+    {
+        "User": "What is cloud computing and why is it helpful?",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": " Define communication protocols with example.",
+        "Luna": "Communication protocols are a set of rules that govern how devices communicate with each other. They define the format of the data that is sent, the timing of the data, and the error-checking mechanisms that are used.\n\nThere are many different communication protocols, each designed for a specific purpose. Some of the most common communication protocols include:\n\n* TCP/IP: The Transmission Control Protocol/Internet Protocol is a suite of communication protocols that is used to connect devices on the Internet. TCP/IP is a layered protocol, which means that it is divided into several layers, each of which performs a specific function.\n* UDP: The User Datagram Protocol is a simpler communication protocol than TCP/IP. UDP does not provide the same level of error checking as TCP/IP, but it is faster and more efficient.\n* HTTP: The Hypertext Transfer Protocol is a communication protocol that is used to transfer web pages from a web server to a web browser. HTTP is a request-response protocol, which means that a web browser sends a request to a web server, and the web server responds with the requested web page.\n* FTP: The File Transfer Protocol is a communication protocol that is used to transfer files between two computers. FTP is a client-server protocol, which means that one computer acts as the client and the other computer acts as the server.\n* SMTP: The Simple Mail Transfer Protocol is a communication protocol that is used to send email messages. SMTP is a client-server protocol, which means that one computer acts as the client and the other computer acts as the server."
+    },
+    {
+        "User": "which unit have highest mark",
+        "Luna": "The provided context is a CV and does not contain information about unit marks."
+    },
+    {
+        "User": "hi",
+        "Luna": "I do not have enough context to answer your query. Can you provide more information, please?"
+    },
+    {
+        "User": "iot kya hai",
+        "Luna": "IoT (\u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0911\u092b \u0925\u093f\u0902\u0917\u094d\u0938) \u092d\u094c\u0924\u093f\u0915 \u0909\u092a\u0915\u0930\u0923\u094b\u0902, \u0935\u093e\u0939\u0928\u094b\u0902, \u0918\u0930\u0947\u0932\u0942 \u0909\u092a\u0915\u0930\u0923\u094b\u0902 \u0914\u0930 \u0905\u0928\u094d\u092f \u0935\u0938\u094d\u0924\u0941\u0913\u0902 \u0915\u093e \u090f\u0915 \u0928\u0947\u091f\u0935\u0930\u094d\u0915 \u0939\u0948 \u091c\u094b \u0907\u0902\u091f\u0930\u0928\u0947\u091f \u0938\u0947 \u091c\u0941\u0921\u093c\u0947 \u0939\u094b\u0924\u0947 \u0939\u0948\u0902 \u0914\u0930 \u0921\u0947\u091f\u093e \u090f\u0915\u0924\u094d\u0930 \u0914\u0930 \u0938\u093e\u091d\u093e \u0915\u0930\u0924\u0947 \u0939\u0948\u0902\u0964"
+    },
+    {
+        "User": "write all the short questions from every subject",
+        "Luna": "**FIFTH SEMESTER EXAMINATION 2022**\n\n**INTERNET OF THINGS (IoT)**\n1. List out the key building blocks of IoT.\n2. Can IoT network be breached? If yes, why?\n3. Discuss IoT Landscape.\n4. Define LoRA WAN.\n5. Define IoT.\n6. Determine the basic operations in IoT.\n7. List out various protocol used in Application layer.\n8. Define Cloud computing.\n9. Tabulate various protocols used in IoT.\n10. Define IoT. Summarize the various applications of IoT.\n11. List the security threats in IoT.\n12. Recall the advantages & disadvantages of IoT.\n13. List out the interfaces used in IoT.\n\n**SOFTWARE ENGINEERING & AGILE METHODOLOGY**\n1. List out the shortcomings of the classical waterfall model.\n2. Distinguish between incremental and evolutionary models.\n3. Explain the circumstances for which it is beneficial to construct a prototype.\n4. Write down the importance of data dictionary.\n5. Distinguish between cohesion and coupling.\n6. Write down the different system views that can be modelled using Unified Modelling Language (UML).\n7. State the differences between a sequence diagram and a collaboration/communication diagram.\n8. Define a test case.\n9. Differentiate between aggregation and composition relationships.\n10. Define software reengineering.\n11. Distinguish between black-box testing and white-box testing approaches to design test cases.\n12. State any two advantages of repository architecture.\n13. State the basic facilities that must be provided by an object request broker (ORB).\n14. Give any two examples of client-server architecture.\n\n**SOFTWARE ENGINEERING AND PROJECT MANAGEMENT**\n1. State Whether the following statement is TRUE or FALSE. Give reasons behind it. \"Development organizations which follow the iterative waterfall model for software development provide maximum customer satisfaction.\"\n2. Distinguish between synchronous and asynchronous operations in the context of Data Flow Diagram (DFD).\n3. Represent the following relation among classes using UML diagram. State the Unified Modelling Language (UML) diagram that represents both the static and dynamic aspects of a system. Justify your answer.\n4. State TRUE or FALSE of the following. Support your answer with proper reasoning. Multiple inheritance is the feature by which many subclasses can inherit features of one base class\".\n5. Suppose that off-the-shelf price of a certain management information system (MIS) software product is Rs. 50,000 and its size is 100 KLOC. Assuming that in-house developers cost Rs. 2,000 per programmer-month (including overhead), compute the nominal effort and the development time and total cost of the project.\n6. The nominal effort and duration of a project is estimated to be 1000pm and 15 months. The project cost is negotiated to be Rs. 200,000. This needs the product to be developed and delivered in 12 months' time, Compute the now cost that needs to be negotiated and the new effort using Putam's model.\n7. Define critical path of a project. Justify the following A project can have more than one path.\n8. Consider a project that has 0.5 percent probability of an undetected fault that would cost the company $100,000 in fines. Calculate risk exposure.\n9. Suppose a project is budgeted to cost \u00a3150,000. The project is to be completed in 18 months, After two months, the project is 10% complete at the expense of \u00a325,000, It was planned that after two months, 15% of the project work should have been completed. Assess the performance of the project.\n10. Write down black box testing approach to design test cases.\n11. Explain the significance of McCabe's cyclomatic complexity.\n12. State at least four importance of Software Quality.\n\n**Machine Learning**\n1. When should you use classification over regression? Explain using example.\n2. Briefly explain the concept of Hypothesis space and inductive bias.\n3. Define Bias-Variance trade-of.\n4. llustrate overfitting of data. Give any two methods to avoid overfitting.\n5. Define cross-validation. Demonstrate K-fold cross validation with an example.\n6. Outline information gain. Explain its role in decision tree classification algorithm.\n7. Elaborate the need of backpropagation in multi-layer perceptron.\n8. State the significance of optimal separating hyperplane in SVM.\n9. Outline the role of kernel function in SVM. Mention its types.\n10. State the curse of dimensionality. How to overcome it?\n11. Write down the major differences between K-means clustering and hierarchical clustering.\n12. Define dendogram. Write the significance of it in hierarchical clustering.\n13. List out the key differences between inductive and deductive learning.\n14. Define ensemble learning. Explain its significance on model training.\n15. Differentiate between random forest and decision tree.\n16. Define Support Vector Machine. Explain different types of Support Vector Machine and role of kernel function in it.\n17. Define K value in both K-NN and K-Means clustering. Explain K-Means clustering algorithm with suitable example.\n18. Differentiate between Partitioning and Hierarchical clustering. Consider the following similarity matrix given below and create the dendogram using complete linkage method.\n19. Define Ensemble learning. Describe the Adaboost algorithm with suitable example.\n20. Write short notes on:\n(i) Q-Learning\n(ii) Bagging"
+    },
+    {
+        "User": "write out all short questions",
+        "Luna": "1. List out the shortcomings of the classical waterfall model.\n2. Distinguish between incremental and evolutionary models.\n3. Explain the circumstances for which it is beneficial to construct a prototype.\n4. Write down the importance of data dictionary.\n5. Distinguish between cohesion and coupling.\n6. Write down the different system views that can be modelled using Unified Modelling Language (UML).\n7. State the differences between a sequence diagram and a collaboration/communication diagram.\n8. Define a test case.\n9. Differentiate between aggregation and composition relationships.\n10. Define software reengineering.\n11. Distinguish between black-box testing and white-box testing approaches to design test cases.\n12. State any two advantages of repository architecture.\n13. State the basic facilities that must be provided by an object request broker (ORB).\n14. Give any two examples of client-server architecture."
+    },
+    {
+        "User": "what is punishment for sexual harashment",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "what is iot",
+        "Luna": "**Definition:**\n\n**Internet of Things (IoT)** refers to the interconnected network of physical devices, vehicles, buildings, and other items embedded with electronics, software, sensors, and connectivity to exchange data over the internet.\n\n**Key Concepts:**\n\n* **Connectivity:** Devices are connected to the internet through various technologies (e.g., Wi-Fi, Bluetooth, cellular).\n* **Data Generation and Collection:** Devices sense and collect data about their environment, status, and usage.\n* **Communication:** Data is transmitted securely between devices, cloud platforms, and applications.\n* **Data Analysis and Insight:** Collected data is analyzed to gain insights, improve processes, and make informed decisions.\n* **Control and Automation:** Devices can be remotely controlled or automated based on collected data and predefined rules.\n\n**Applications:**\n\nIoT has applications in various industries, including:\n\n* **Smart Cities:** Connected infrastructure for traffic management, public safety, and energy efficiency.\n* **Manufacturing:** Automated production lines, predictive maintenance, and supply chain optimization.\n* **Healthcare:** Remote patient monitoring, personalized treatment, and data-driven research.\n* **Agriculture:** Precision farming, crop monitoring, and livestock management.\n* **Retail:** Smart shopping experiences, inventory management, and personalized recommendations.\n\n**Benefits:**\n\n* **Increased Efficiency:** Automation and data analysis reduce manual labor and improve productivity.\n* **Cost Reduction:** Remote monitoring and predictive maintenance save costs on maintenance and downtime.\n* **Improved Decision-Making:** Data-driven insights provide a better understanding of operations and customer needs.\n* **Enhanced Customer Experience:** Smart devices provide personalized services and improve convenience.\n* **New Revenue Opportunities:** IoT opens up new business models and revenue streams based on data and insights."
+    },
+    {
+        "User": "write all short questions",
+        "Luna": "**Part A:**\n\n1. (a) What are turnaround time and response time?\n(b) What are short term, medium term and long term scheduler?\n(c) Distinguish between process and program.\n(d) What are operating system services?\n(e) What is context switch?\n(f) What are the four necessary conditions for Deadlock?\n(g) Distinguish between independent process and co-operating process.\n(h) What is a Monitor?\n(i) What is swapping?\n(j) What is meant by Paging? Give its advantages.\n(k) Define Thrashing.\n(l) What is meant by seek time?\n(m) Define fragmentation.\n(n) Explain best fit, first fit and worst fit.\n(o) what is starvation?\n\n**Part B:**\n\n4. (a) What do you mean by PCB? ? How PCB is helpful in scheduling? What are its contents?\n(b) What are the contents of need matrix?\n(c) Explain deadlock prevention techniques briefly.\n\n5. (a) Differentiate between paging and segmentation? Discuss in detail about structure of page tables with appropriate examples.Let the Logical Address is represented by 31 bits, then Logical Address Space contains how many words?\n(b) What are the principles of the page replacement algorithms?\nConsider the following page reference using three frames that are initially empty.\nFind the page faults using FIFO, LRU, Optimal page replacement algorithm, where the page reference sequence is as follows: 7,0,1, 2,0,3,0,4,2,3,0,3,2,1,2,0,1,7,0,1?\n\n6. (a) What is the basic operational difference between SCAN,C-SCAN and LOOK disk scheduling algorithm. Consider a disk queue with requests for l/O to blocks on cylinders 98, 183, 41, 122, 14, 124, 65, 67. The SSTF scheduling algorithm is used. The head is initially at cylinder number 53 moving towards larger cylinder numbers on its servicing pass. The cylinders are numbered from 0 to 199. Find the total head movement incurred while servicing these requests\n(b). Discuss about different directory structures in a file system"
+    },
+    {
+        "User": "write all short questions",
+        "Luna": "1. What is your name?\n2. Where are you from?\n3. What do you do for a living?\n4. What are your hobbies?\n5. What is your favorite food?\n6. What is your favorite movie?\n7. What is your favorite book?\n8. What is your favorite song?\n9. What is your favorite sport?\n10. What is your favorite animal?\n11. What is your favorite color?\n12. What is your favorite number?\n13. What is your favorite season?\n14. What is your favorite holiday?\n15. What is your favorite place to visit?\n16. What is your favorite thing to do?\n17. What is your biggest dream?\n18. What is your greatest fear?\n19. What is your most embarrassing moment?\n20. What is your proudest accomplishment?"
+    },
+    {
+        "User": "what is my cgpa",
+        "Luna": "I'm sorry, but I don't have access to your personal information and cannot provide you with your CGPA."
+    },
+    {
+        "User": "my cgpa",
+        "Luna": "I am unable to fetch the requested information from the provided context. The context does not contain any information related to your CGPA."
+    },
+    {
+        "User": "what is my cgpa",
+        "Luna": "I apologize, but I need more context to answer your question. Please provide the necessary information and I'll do my best to help."
+    },
+    {
+        "User": "my contact number",
+        "Luna": "I do not have access to your personal information, including your contact number."
+    },
+    {
+        "User": "what is my contact number",
+        "Luna": "I do not have access to your personal information, including your contact number. For security reasons, this information is not stored or accessible through this interface. If you need to retrieve your contact number, you can check your phone settings, contact your phone carrier, or refer to any official documentation or records where you have previously provided your contact information."
+    },
+    {
+        "User": "what my email id",
+        "Luna": "I do not have access to your personal information, including your email address."
+    },
+    {
+        "User": "what is cgpa",
+        "Luna": "This document does not contain the CGPA."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "SOUMYARANJAN SAHOO"
+    },
+    {
+        "User": "my contact number",
+        "Luna": "07894828883"
+    },
+    {
+        "User": "my current semester",
+        "Luna": "The provided document does not specify your current semester."
+    },
+    {
+        "User": "4th semester cgpa",
+        "Luna": "8.14"
+    },
+    {
+        "User": "hi",
+        "Luna": "Sure, here are some general examples of queries that you can use:\n\n* What is the weather today?\n* What is the capital of France?\n* Who is the president of the United States?\n* What is the square root of 144?\n* How do I make a peanut butter and jelly sandwich?\n* What is the best way to get to work?\n* What are the top 10 movies of all time?\n* Who won the World Series last year?\n* What is the population of China?\n* What is the chemical formula for water?"
+    },
+    {
+        "User": "my 3 rd semester cgpa",
+        "Luna": "7.77"
+    },
+    {
+        "User": "my dob",
+        "Luna": "06-04-2004"
     }
 ]

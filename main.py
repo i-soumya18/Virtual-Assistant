@@ -10,9 +10,9 @@ from pdf_processing import update_knowledge_base
 genai.configure(api_key=value)
 
 generation_config = {
-    "temperature": 0.7,
+    "temperature": 0.8,
     "top_p": 1,
-    "top_k": 1,
+    "top_k": 5,
     "max_output_tokens": 2048,
 }
 
