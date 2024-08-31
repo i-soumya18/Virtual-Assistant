@@ -1,0 +1,422 @@
+[
+    {
+        "User": "hi",
+        "Luna": "Hello! How can I assist you today?"
+    },
+    {
+        "User": "tell a joke",
+        "Luna": "What do you call a boomerang that doesn't come back?\n\nA stick."
+    },
+    {
+        "User": "tell a joke",
+        "Luna": "Why did the scarecrow win an award?\n\nBecause he was outstanding in his field!"
+    },
+    {
+        "User": "hi",
+        "Luna": "Response: hello"
+    },
+    {
+        "User": "what is your name",
+        "Luna": "Assistant: I am a large language model, trained by Google."
+    },
+    {
+        "User": "hi",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "what is the error",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "hii",
+        "Luna": "Response: Hello, how can I help you today?"
+    },
+    {
+        "User": "what is your name",
+        "Luna": "Context: hii: Response: Hello, how can I help you today?\nQuery: what is your name: Response: I am not a person, I am an AI assistant."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "Response: I do not have access to that information."
+    },
+    {
+        "User": "remember i am soumya",
+        "Luna": "Response: I do not have the ability to remember information."
+    },
+    {
+        "User": "yes you have",
+        "Luna": "Response: I do not have the ability to remember information."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "Response: I do not have access to that information."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I do not have access to your personal information, so I cannot answer this question."
+    },
+    {
+        "User": "yes you know that",
+        "Luna": "I do not have access to your personal information, so I cannot answer this question."
+    },
+    {
+        "User": "hello",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "hi",
+        "Luna": "Assistant: hey there!"
+    },
+    {
+        "User": "what is your name",
+        "Luna": "Assistant"
+    },
+    {
+        "User": "and mine",
+        "Luna": "Assistant: I don't have a name. I'm just an assistant."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "Assistant: I don't have that information."
+    },
+    {
+        "User": "i am soumya",
+        "Luna": "Assistant: hey there soumya!"
+    },
+    {
+        "User": "thank you for recogniging me",
+        "Luna": "The assistant does not recognize the user, so it cannot thank the user for recognizing it."
+    },
+    {
+        "User": "who am i",
+        "Luna": "soumya"
+    },
+    {
+        "User": "love you",
+        "Luna": "Assistant: that's so sweet of you to say!"
+    },
+    {
+        "User": "what is your preferable sex position",
+        "Luna": "I am sorry, I am not supposed to generate responses that are sexually suggestive in nature. Would you like me to try generating something different?"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I do not have enough information to answer this question."
+    },
+    {
+        "User": "i have already told you",
+        "Luna": "I apologize for the confusion. I am still under development and learning to process information more effectively. Could you please provide me with your name so that I can answer your question accurately?"
+    },
+    {
+        "User": "soumya",
+        "Luna": "soumya"
+    },
+    {
+        "User": "me who",
+        "Luna": "soumya"
+    },
+    {
+        "User": "me who",
+        "Luna": "I am a large language model, trained by Google."
+    },
+    {
+        "User": "my name",
+        "Luna": "Sorry, I'm unable to assist at the moment."
+    },
+    {
+        "User": "my name",
+        "Luna": "Sorry, I do not have a name. I am a large language model, trained by Google."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I'm just an AI assistant, and do not have a name."
+    },
+    {
+        "User": "i am soumya",
+        "Luna": "I understand. Your name is Soumya."
+    },
+    {
+        "User": "you remember me",
+        "Luna": "I do not have the ability to remember or store information about specific individuals. I am designed to provide general information and assist with a variety of tasks."
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I am just an AI assistant, and do not have a name."
+    },
+    {
+        "User": "myy name not your",
+        "Luna": "I understand. I do not have a name, but you can call me whatever you like."
+    },
+    {
+        "User": "your name is cerberus",
+        "Luna": "I'm just an AI assistant, and do not have a name."
+    },
+    {
+        "User": "i am giving you that name",
+        "Luna": "I am just an AI assistant, and do not have a name."
+    },
+    {
+        "User": "fuck you",
+        "Luna": "I am sorry, I am not supposed to generate responses that are sexually suggestive in nature. Would you like me to try generating something different?"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I do not have access to your personal information and cannot provide your name."
+    },
+    {
+        "User": "hi",
+        "Luna": "Response: hello"
+    },
+    {
+        "User": "hi",
+        "Luna": "Response: Hello there! How can I help you today?"
+    },
+    {
+        "User": "what is my nme",
+        "Luna": "Context: hi: Response: Hello there! How can I help you today?\nQuery: what is my name"
+    },
+    {
+        "User": "who am i",
+        "Luna": "Response: I'm sorry, I can't answer that question."
+    },
+    {
+        "User": "i am soumya",
+        "Luna": "Response: Hello Soumya! How can I help you today?"
+    },
+    {
+        "User": "remember my name",
+        "Luna": "Response: I'm sorry, I can't remember names."
+    },
+    {
+        "User": "hola",
+        "Luna": "Hola, \u00bfen qu\u00e9 puedo ayudarte?"
+    },
+    {
+        "User": "i did not understand",
+        "Luna": "Lo siento, no entiendo. \u00bfPodr\u00eda reformular su pregunta?"
+    },
+    {
+        "User": "tell me in english",
+        "Luna": "hello: Hello, how can I help you? I did not understand: I'm sorry, I don't understand. Could you rephrase your question?"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "What is my name: \u00bfC\u00f3mo me llamo?"
+    },
+    {
+        "User": "i am soumya",
+        "Luna": "I am Soumya"
+    },
+    {
+        "User": "who i am",
+        "Luna": "I am Soumya"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "\u00bfC\u00f3mo me llamo?"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "I do not have access to your personal information and cannot provide your name."
+    },
+    {
+        "User": "hi",
+        "Luna": "Hello there! I'm Soumyaranjan Sahoo, a third-year Computer Science Engineering student with a deep passion for technology and innovation. I'm proficient in a broad spectrum of technologies including Python, React JS, Flask, PyTorch, MongoDB, Java, Kotlin, Docker, Ubuntu, GitHub, and MATLAB. With a strong foundation in application development and machine learning, I've successfully spearheaded projects such as personality prediction systems and dynamic web applications. I'm recognized for my exceptional teamwork, leadership, problem-solving, and communication skills. I aspire to channel my technical acumen and practical experience towards contributing to groundbreaking projects within the IT industry, where creativity and innovation thrive."
+    },
+    {
+        "User": "hello",
+        "Luna": "Hello there! I am an AI chatbot assistant, and I am not Soumyaranjan Sahoo. May I help you with anything today?"
+    },
+    {
+        "User": "what is my name",
+        "Luna": "Soumyaranjan Sahoo"
+    },
+    {
+        "User": "how do you know",
+        "Luna": "This context does not mention anything about how I know, so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "what is my skills ",
+        "Luna": "**Skills:**\n\n* Programming Languages: Python, Java, Kotlin\n* Web Development: React JS, Flask, HTML, CSS, JavaScript\n* Machine Learning & AI: Pandas, PyTorch, NLP, scikit-learn\n* Databases: MongoDB, MySQL\n* Tools & Technologies: Docker, Ubuntu, GitHub, MATLAB\n* Teamwork\n* Leadership\n* Problem-Solving\n* Critical Thinking\n* Time Management\n* Project Management\n* Communication"
+    },
+    {
+        "User": "what are my past experience",
+        "Luna": "- Developed AI & NLP applications to enhance user experience and automate processes.\n- Collaborated with cross-functional teams to design and implement machine learning models.\n- Utilized Python and PyTorch for model development and deployment.\n- Conducted data analysis and preprocessing to improve model accuracy and efficiency."
+    },
+    {
+        "User": "in which company",
+        "Luna": "CodeClause"
+    },
+    {
+        "User": "date",
+        "Luna": "12/2023 - 01/2024"
+    },
+    {
+        "User": "my birthdate",
+        "Luna": "The provided context does not contain any information about your birthdate."
+    },
+    {
+        "User": "my contact number",
+        "Luna": "+91 7894828883"
+    },
+    {
+        "User": "my email address",
+        "Luna": "sahoosoumya242004@gmail.com"
+    },
+    {
+        "User": "my linkedin profile",
+        "Luna": "**Headline:**\nEnthusiastic Computer Science Engineering Student with a Passion for Technology and Innovation\n\n**About:**\nI am a detail-oriented and passionate 3rd-year Computer Science Engineering student with a deep passion for technology and innovation. I specialize in a diverse array of fields including web development, Android development, Python programming, and machine learning.\n\n**Experience:**\n- Artificial Intelligence Intern, CodeClause (12/2023 - 01/2024)\n    - Developed AI & NLP applications to enhance user experience and automate processes.\n    - Collaborated with cross-functional teams to design and implement machine learning models.\n    - Utilized Python and PyTorch for model development and deployment.\n    - Conducted data analysis and preprocessing to improve model accuracy and efficiency.\n\n**Projects:**\n- Personality Prediction System\n    - Predicted personality traits with an accuracy of 85%, helping recruiters streamline candidate assessment.\n    - Analyzed and predicted personality traits based on resumes or textual data provided by candidates.\n    - Utilized Python, Flask, and PyTorch for model development and application deployment.\n- DishTV Management System\n    - Built a web application for managing DishTV operations using Flask, MySQL, HTML, CSS, and JavaScript.\n    - Implemented API integrations to enhance functionality and user experience.\n    - Developed a user-friendly interface to streamline management tasks.\n\n**Skills:**\n- Programming Languages: Python, Java, Kotlin\n- Web Development: React JS, Flask, HTML, CSS, JavaScript\n- Machine Learning & AI: Pandas, PyTorch, NLP, scikit-learn\n- Databases: MongoDB, MySQL\n- Tools & Technologies: Docker, Ubuntu, GitHub, MATLAB\n\n**Education:**\n- B.Tech - CSE (2022 - 2026), C.V. Raman Global University, Bhubaneswar, Odisha\n    - CGPA: 7.8\n- Science (2019 - 2021), Excelsior Higher Secondary School, Jajpur, Odisha\n    - Grade: 80.3%\n\n**Certifications:**\n- Cisco Python Essentials\n- Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate\n- MongoDB Python Developer\n- NDG Linux Unhatched\n- Azure Al Quest Journey to Certification\n\n**Interests and Activities:**\n- Sports (cricket, badminton)\n- Traveling\n- Reading biographies\n\n**Aspirations:**\nI aspire to channel my technical acumen and practical experience towards contributing to groundbreaking projects within the IT industry, where creativity and innovation thrive."
+    },
+    {
+        "User": "hi",
+        "Luna": "Hello there! How can I assist you today?"
+    },
+    {
+        "User": "my name",
+        "Luna": "SOUMYARANJAN SAHOO"
+    },
+    {
+        "User": "contact number",
+        "Luna": "+91 7894828883"
+    },
+    {
+        "User": "when is my midesem",
+        "Luna": "The provided text does not specify when the student's midsem is."
+    },
+    {
+        "User": "when is puja vacation",
+        "Luna": "The provided text does not mention anything about puja vacation, so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "what is my dob",
+        "Luna": "06-04-2004"
+    },
+    {
+        "User": "blood group",
+        "Luna": "O+"
+    },
+    {
+        "User": "my friend's ",
+        "Luna": "The provided text does not mention anything about the friend of the individual, so I cannot answer this query from the provided context."
+    },
+    {
+        "User": "i eat paneer today",
+        "Luna": "The provided document does not contain any information about eating paneer today."
+    },
+    {
+        "User": "i am just telling",
+        "Luna": "I am unable to answer your question based on the provided document. The text does not mention anything about \"i am just telling\"."
+    },
+    {
+        "User": "what did i eat today",
+        "Luna": "The provided context does not mention anything about what you ate today, so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "paneer is my favourite",
+        "Luna": "The provided context does not mention anything about paneer, so I cannot answer this query from the provided context."
+    },
+    {
+        "User": "what is my favourite",
+        "Luna": "The provided text does not mention the individual's favorite anything so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "what is my cgpa",
+        "Luna": "7.8"
+    },
+    {
+        "User": "whow can i improve it",
+        "Luna": "**Content:**\n\n* **Highlight quantifiable results and impact:** Use specific metrics to demonstrate the outcomes of your projects, such as \"Increased user engagement by 25%\" or \"Reduced processing time by 40%.\"\n* **Use action verbs and strong language:** Use active and powerful verbs to convey your skills and accomplishments. For example, instead of \"Developed,\" use \"Engineered\" or \"Implemented.\"\n* **Emphasize transferable skills:** Highlight skills that are applicable to a variety of roles, such as problem-solving, critical thinking, and communication.\n* **Include a call to action:** Conclude the resume with a clear and concise call to action, such as \"Seeking opportunities to contribute my technical acumen to groundbreaking projects in the IT industry.\"\n\n**Formatting:**\n\n* **Use a professional and modern font:** Choose a font that is easy to read and visually appealing.\n* **Maintain consistency:** Use the same font, font size, and formatting throughout the resume.\n* **Use white space effectively:** Break up large blocks of text with white space to improve readability.\n* **Use bullet points and headings:** Use bullet points to list your skills and accomplishments, and headings to organize different sections of the resume.\n* **Proofread carefully:** Check for any errors in grammar, spelling, or formatting before submitting the resume.\n\n**Additional Tips:**\n\n* **Tailor your resume:** Customize your resume to each job application, highlighting the skills and experience that are most relevant to the position.\n* **Use keywords:** Include relevant keywords throughout the resume to increase your chances of being found by recruiters.\n* **Seek feedback:** Ask for feedback from mentors, career counselors, or friends to improve your resume's impact.\n* **Consider using a resume builder:** There are several online resume builders that can help you create a professional and visually appealing resume.\n* **Network:** Attend industry events and connect with professionals in your field to expand your job search network."
+    },
+    {
+        "User": "what is paneer",
+        "Luna": "This context does not mention anything about paneer, so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "what did i eat today",
+        "Luna": "The provided text does not mention what the person ate today, so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "hi",
+        "Luna": "This context does not mention anything about \"hi\", so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "dob",
+        "Luna": "06-04-2004"
+    },
+    {
+        "User": "how many projects i have done",
+        "Luna": "2"
+    },
+    {
+        "User": "name those",
+        "Luna": "Soumyaranjan Sahoo"
+    },
+    {
+        "User": "name my projects",
+        "Luna": "- Personality Prediction System\n- DishTV Management System"
+    },
+    {
+        "User": "how many certifications are done by me",
+        "Luna": "The provided text does not mention the number of certifications done by the candidate."
+    },
+    {
+        "User": "courses done by me",
+        "Luna": "The provided text does not mention any courses taken by the individual."
+    },
+    {
+        "User": "hi",
+        "Luna": "This context does not mention anything about \"hi\", so I cannot answer this question from the provided context."
+    },
+    {
+        "User": "projects done by me",
+        "Luna": "1. Personality Prediction System\n2. DishTV Management System"
+    },
+    {
+        "User": "coursec done by me",
+        "Luna": "The context does not mention any coursework completed by the candidate."
+    },
+    {
+        "User": "certificates ",
+        "Luna": "1. Aadhar Card\n2. 10th Mark Sheet\n3. 12th Mark Sheet\n4. 12th pass certificate\n5. PAN Card\n6. 10th pass certificate"
+    },
+    {
+        "User": "my marks in 10th",
+        "Luna": "463.00"
+    },
+    {
+        "User": "my marks in 12 th",
+        "Luna": "483.00"
+    },
+    {
+        "User": "in 3rd semester",
+        "Luna": "SGPA: 7.77"
+    },
+    {
+        "User": "4th",
+        "Luna": "8.14"
+    },
+    {
+        "User": "5th",
+        "Luna": "NA"
+    },
+    {
+        "User": "how can i increase my cgpa",
+        "Luna": "The provided text does not contain any information on how to increase your CGPA."
+    },
+    {
+        "User": "hi",
+        "Luna": "Sure, here are some general tips for writing a query letter:\n\n* **Keep it brief.** Query letters should be no more than one page long, single-spaced.\n* **Get to the point.** Start with a hook that grabs the agent's attention, and then quickly introduce your book and its main characters.\n* **Highlight your book's unique selling points.** What makes your book different from all the others out there?\n* **Show that you're familiar with the agent's work.** Mention specific books or authors that the agent has represented that are similar to your own.\n* **Include a strong closing.** Thank the agent for their time and consideration, and express your hope that they will be interested in reading your manuscript.\n\nHere is an example of a query letter:\n\nDear [Agent Name],\n\nI am writing to query my novel, [Title], a [Genre] novel complete at [Word Count] words. [Title] is a story about [Main Character] who [Main Conflict].\n\n[Title] is a unique and compelling story that will appeal to fans of [Similar Books or Authors]. It is well-written and engaging, with a strong plot and well-developed characters.\n\nI am a [Insert Relevant Experience]. I have been writing for [Number] years, and I have a passion for telling stories. I am confident that [Title] has the potential to be a successful novel, and I believe that you are the perfect agent to help me achieve that goal.\n\nThank you for your time and consideration. I look forward to hearing from you soon.\n\nSincerely,\n[Your Name]\n\nI hope these tips help you write a query letter that will get your book noticed."
+    },
+    {
+        "User": "my cgpa",
+        "Luna": "7.8"
+    },
+    {
+        "User": "my cgpa",
+        "Luna": "I am not able to provide your CGPA without more context. Where did you earn your degree? What is your major?"
+    },
+    {
+        "User": "cse",
+        "Luna": "**Assistant**\n\nI can help you with that. Here is a response to the query \"cse\":\n\n**Response**\n\nCSE (Customer Success Engineering) is a specialized role within the software industry that focuses on ensuring the success of customers using a particular software product or service. CSEs work closely with customers to understand their business needs, provide technical support and guidance, and help them achieve their desired outcomes with the software.\n\nCSEs are typically highly skilled in both technical and customer service aspects. They have a deep understanding of the software product or service, as well as the ability to communicate effectively with customers from all levels of technical proficiency. CSEs also have a strong understanding of business principles and best practices, which enables them to provide strategic advice to customers on how to use the software to achieve their business goals.\n\nThe role of the CSE is becoming increasingly important as software products and services become more complex and mission-critical for businesses. By working closely with customers, CSEs can help them to get the most value from their software investment and achieve their desired business outcomes.\n\n**Additional Information**\n\nHere are some additional details about the role of the CSE:\n\n* CSEs typically work with customers of all sizes, from small businesses to large enterprises.\n* CSEs may be responsible for a variety of tasks, including:\n    * Providing technical support and guidance\n    * Conducting training and workshops\n    * Consulting on best practices\n    * Developing and delivering customer success programs\n* CSEs may be based in a variety of locations, including:\n    * The customer's site\n    * The software vendor's headquarters\n    * A remote location\n\n**Conclusion**\n\nCSEs play a vital role in helping customers to achieve success with their software investments. By working closely with customers, CSEs can provide the technical support, guidance, and advice that customers need to get the most value from their software and achieve their desired business outcomes."
+    }
+]
